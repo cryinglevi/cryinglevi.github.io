@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on CryingLevi</title>
+    <link>https://yourusername.github.io/projects/</link>
+    <description>Recent content in Projects on CryingLevi</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2025 Levi Davis</copyright>
+    <lastBuildDate>Wed, 24 Sep 2025 22:08:00 +0100</lastBuildDate>
+    <atom:link href="https://yourusername.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://yourusername.github.io/projects/test/</link>
+      <pubDate>Wed, 24 Sep 2025 22:08:00 +0100</pubDate>
+      <guid>https://yourusername.github.io/projects/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
